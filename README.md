@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Core Android, Python, PWA, Nextjs.**
 
-- 👨‍💻 All of my projects are available at [https://zaidreshamwale.000webhostapp.com/](https://zaidreshamwale.000webhostapp.com/)
+- 👨‍💻 Get to know more about me at [https://zaidreshamwale.000webhostapp.com/](https://zaidreshamwale.000webhostapp.com/)
 
 - 💬 Ask me about **react, javascript, ionic, android, web-development, web-design.**
 
